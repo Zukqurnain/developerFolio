@@ -37,6 +37,20 @@
   cursor: pointer;
 }
 
+.saaya-health-div {
+    cursor: pointer;
+    width: 100%;
+    margin-right: 30px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 10px 30px -15px rgba(0,0,0,.2);
+    border-radius: 10px;
+    border: 1px solid hsla(0,0%,82.7%,.397);
+}
+
 @media (max-width: 768px) {
   .starup-project-image {
     display: none;
