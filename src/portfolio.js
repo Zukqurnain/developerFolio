@@ -178,7 +178,7 @@ const workExperiences = {
       role: 'Freelance Web Developer',
       company: 'Fiverr',
       companylogo: require('./assets/images/Fiverr.png'),
-      date: 'May 2018 – April 209',
+      date: 'May 2018 – April 2019',
       // desc:
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     },
